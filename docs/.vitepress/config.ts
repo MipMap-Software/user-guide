@@ -86,7 +86,7 @@ export default defineConfig({
   title: "MipMap Docs",
   description: "MipMap Docs",
   lang: "en-US",
-  base: isDev ? "/" : "/docs/",
+  base: isDev ? "/" : "/guide/",
   
 
   markdown: {
