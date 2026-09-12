@@ -8,6 +8,8 @@ It covers laser LiDAR data import and cross-platform workflows for exporting out
 
 Targeted at the MipMap ecosystem, these documents address common challenges involving LiDAR data ingestion, result utilization, and multi-software collaboration.
 
+[View the online documentation](https://docs.mipmap3d.com/guide/en/)
+
 ## Install and Run
 
 ### Install Node.js
