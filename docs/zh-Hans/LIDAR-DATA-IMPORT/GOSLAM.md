@@ -3,6 +3,8 @@ title: GOSLAM手持激光雷达
 sidebar_position: 1
 ---
 
+# GOSLAM手持激光雷达
+
 ## 1 . 点云解算
 
 激光雷达原始数据，需要先在`Mapping Master`里解算，勾选`3DGS-Mip`导出。

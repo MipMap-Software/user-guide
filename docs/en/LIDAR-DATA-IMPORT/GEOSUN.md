@@ -3,6 +3,8 @@ title: GEOSUN Handheld LiDAR
 sidebar_position: 1
 ---
 
+# GEOSUN Handheld LiDAR
+
 ## 1. Point Cloud Processing
 
 Raw LiDAR data must first be processed and exported in `PointCloudCreator`. Refer to the manufacturer's user manual for detailed procedures.

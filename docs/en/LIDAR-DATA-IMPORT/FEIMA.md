@@ -3,6 +3,8 @@ title: FEIMA Handheld LiDAR
 sidebar_position: 1
 ---
 
+# FEIMA Handheld LiDAR
+
 ## 1. Point Cloud Processing
 
 Raw LiDAR data must first be processed and exported in `Slam Go Post Pro`. Refer to the manufacturer's user manual for detailed procedures.

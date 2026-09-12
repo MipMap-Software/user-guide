@@ -1,7 +1,9 @@
 ---
-title: Liuxing Handheld LiDAR
+title: MANIFOLD Handheld LiDAR
 sidebar_position: 1
 ---
+
+# MANIFOLD Handheld LiDAR
 
 ## 1. Point Cloud Processing
 
