@@ -3,6 +3,8 @@ title: SOUTH Handheld LiDAR
 sidebar_position: 1
 ---
 
+# SOUTH Handheld LiDAR
+
 ## 1. Point Cloud Processing
 
 Raw LiDAR data must first be processed and exported in `SouthLidar Pro`. Refer to the manufacturer's user manual for detailed procedures.

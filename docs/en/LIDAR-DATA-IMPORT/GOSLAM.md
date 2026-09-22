@@ -3,6 +3,8 @@ title: GOSLAM Handheld LiDAR
 sidebar_position: 1
 ---
 
+# GOSLAM Handheld LiDAR
+
 ## 1. Point Cloud Processing
 
 Raw LiDAR data must first be processed in `Mapping Master`. Check the `3DGS-Mip` option for export.

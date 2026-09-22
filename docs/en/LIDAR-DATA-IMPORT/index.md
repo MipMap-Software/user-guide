@@ -13,61 +13,61 @@ title: LiDAR Data Import Guide
 
 ## Supported Devices
 <div class="device-grid">
-<a class="device-card" href="/en/LIDAR-DATA-IMPORT/CHCNAV">
+<a class="device-card" href="/guide/en/LIDAR-DATA-IMPORT/CHCNAV">
   <div class="card-logo">
     <img src="/img/logo/CHCNAV.webp" alt="CHCNAV">
   </div>
   <div class="card-desc">CHCNAV Handheld LiDAR</div>
 </a>
-<a class="device-card" href="/en/LIDAR-DATA-IMPORT/FEIMA">
+<a class="device-card" href="/guide/en/LIDAR-DATA-IMPORT/FEIMA">
   <div class="card-logo">
     <img src="/img/logo/FEIMA.webp" alt="FEIMA">
   </div>
   <div class="card-desc">FEIMA Handheld LiDAR</div>
 </a>
-<a class="device-card" href="/en/LIDAR-DATA-IMPORT/GEOSUN">
+<a class="device-card" href="/guide/en/LIDAR-DATA-IMPORT/GEOSUN">
   <div class="card-logo">
     <img src="/img/logo/GEOSUN.webp" alt="GEOSUN">
   </div>
   <div class="card-desc">GEOSUN Handheld LiDAR</div>
 </a>
-<a class="device-card" href="/en/LIDAR-DATA-IMPORT/GOSLAM">
+<a class="device-card" href="/guide/en/LIDAR-DATA-IMPORT/GOSLAM">
   <div class="card-logo">
     <img src="/img/logo/GOSLAM.webp" alt="GOSLAM">
   </div>
   <div class="card-desc">GOSLAM Handheld LiDAR</div>
 </a>
-<a class="device-card" href="/en/LIDAR-DATA-IMPORT/MANIFOLD">
+<a class="device-card" href="/guide/en/LIDAR-DATA-IMPORT/MANIFOLD">
   <div class="card-logo">
     <img src="/img/logo/MANIFOLD.webp" alt="MANIFOLD">
   </div>
   <div class="card-desc">MANIFOLD Handheld LiDAR</div>
 </a>
-<a class="device-card" href="/en/LIDAR-DATA-IMPORT/OmniSLAM">
+<a class="device-card" href="/guide/en/LIDAR-DATA-IMPORT/OmniSLAM">
   <div class="card-logo">
     <img src="/img/logo/OmniSLAM.webp" alt="OmniSLAM">
   </div>
   <div class="card-desc">OmniSLAM Handheld LiDAR</div>
 </a>
-<a class="device-card" href="/en/LIDAR-DATA-IMPORT/SHARE">
+<a class="device-card" href="/guide/en/LIDAR-DATA-IMPORT/SHARE">
   <div class="card-logo">
     <img src="/img/logo/SHARE.webp" alt="SHARE">
   </div>
   <div class="card-desc">SHARE Handheld LiDAR</div>
 </a>
-<a class="device-card" href="/en/LIDAR-DATA-IMPORT/SKYLANDX">
+<a class="device-card" href="/guide/en/LIDAR-DATA-IMPORT/SKYLANDX">
   <div class="card-logo">
     <img src="/img/logo/SKYLANDX.webp" alt="SKYLANDX">
   </div>
   <div class="card-desc">SKYLANDX Handheld LiDAR</div>
 </a>
-<a class="device-card" href="/en/LIDAR-DATA-IMPORT/SOUTH">
+<a class="device-card" href="/guide/en/LIDAR-DATA-IMPORT/SOUTH">
   <div class="card-logo">
     <img src="/img/logo/SOUTH.webp" alt="SOUTH">
   </div>
   <div class="card-desc">SOUTH Handheld LiDAR</div>
 </a>
-<a class="device-card" href="/en/LIDAR-DATA-IMPORT/XGRIDS">
+<a class="device-card" href="/guide/en/LIDAR-DATA-IMPORT/XGRIDS">
   <div class="card-logo">
     <img src="/img/logo/XGRIDS.webp" alt="XGRIDS">
   </div>

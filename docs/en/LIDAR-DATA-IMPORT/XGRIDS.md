@@ -3,6 +3,8 @@ title: XGRIDS Handheld LiDAR
 sidebar_position: 1
 ---
 
+# XGRIDS Handheld LiDAR
+
 ## 1. Point Cloud Processing
 
 Raw LiDAR data must first be processed and exported in `LixelStudio`. Refer to the manufacturer's user manual for detailed procedures.

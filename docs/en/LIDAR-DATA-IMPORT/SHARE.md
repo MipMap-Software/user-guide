@@ -3,6 +3,8 @@ title: SHARE Handheld LiDAR
 sidebar_position: 1
 ---
 
+# SHARE Handheld LiDAR
+
 ## 1. Point Cloud Processing
 
 Raw LiDAR data must first be processed and exported in `SHARE PointClouds Studio`. Refer to the manufacturer's user manual for detailed procedures.

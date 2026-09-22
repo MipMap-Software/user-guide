@@ -3,6 +3,8 @@ title: OmniSLAM Handheld LiDAR
 sidebar_position: 1
 ---
 
+# OmniSLAM Handheld LiDAR
+
 ## 1. Point Cloud Processing
 
 Raw LiDAR data must first be processed and exported in `OmniSLAM Mapper`. Refer to the manufacturer's user manual for detailed procedures.
