@@ -41,7 +41,7 @@ Click Import Folder.
 
 ![](/img/en-img/chcnavimportimg.png)
 
-Raw fisheye photos are stored in multiple `Camera` folders. Select all `Camera` folders for import.
+Open the raw data directory. Photo data is stored in multiple Camera folders. Select all Camera folders for import.
 
 ![](/img/en-img/chcnavimg.png)
 

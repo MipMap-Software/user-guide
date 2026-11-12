@@ -41,7 +41,7 @@ sidebar_position: 1
 
 ![](/img/cn-img/华测导入照片.png)
 
-原始鱼眼照片数据分为多个`Camera`文件夹存储，选择所有`Camera`文件夹导入。
+打开原始数据目录，照片数据分为多个`Camera`文件夹存储，选择所有`Camera`文件夹导入。
 
 ![](/img/cn-img/华测照片.png)
 
